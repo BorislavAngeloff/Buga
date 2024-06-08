@@ -1,2 +1,2 @@
-# Buga
+# Bugs
 Bugs
